@@ -7,8 +7,8 @@ on:
   pull_request:
     branches:
       - main
-  schedule:
-    - cron: "0 19 * * *" # Runs daily at 7pm UTC (6pm Spanish time)
+  #schedule:
+    #- cron: "0 19 * * *" # Runs daily at 7pm UTC (6pm Spanish time)
 
 jobs:
 
